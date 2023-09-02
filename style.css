@@ -1,0 +1,24 @@
+* {
+    margin: auto; 
+    background-color: black;
+}
+
+body {
+    margin:auto;
+}
+
+section {
+    padding: 10px;
+    
+}
+
+.img-container{
+    width: 350px;
+    box-sizing: border-box;
+    box-shadow: 0 0 4px 4px;
+    color: white;
+}
+
+.img-container img {
+    width: 100%;
+}
